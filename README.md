@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABHISHEK-WAMBURE
-- 👀 I’m interested in ...IT
-- 🌱 I’m currently learning ...Web Development 
+- 👀 I’m interested in ...DATA 
+- 🌱 I’m currently Exploring more about ...DATA 
 - 💞️ I’m looking to collaborate on ...Projects [Fruitfull Learning]
 - 📫 How to reach me ...linkedin/abhishek-wambure/
 
